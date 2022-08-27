@@ -1,0 +1,18 @@
+{
+  "solution": {
+    "path": "CoffeeBrowser.sln",
+    "projects": [
+		"CoffeeBrowser.Shared\\CoffeeBrowser.Shared.shproj",
+
+		"CoffeeBrowser.Droid\\CoffeeBrowser.Droid.csproj",
+
+		"CoffeeBrowser.iOS\\CoffeeBrowser.iOS.csproj",
+
+		"CoffeeBrowser.Wasm\\CoffeeBrowser.Wasm.csproj",
+
+		"CoffeeBrowser.macOS\\CoffeeBrowser.macOS.csproj",
+
+		"CoffeeBrowser.Skia.Gtk\\CoffeeBrowser.Skia.Gtk.csproj",
+    ]
+  }
+}
